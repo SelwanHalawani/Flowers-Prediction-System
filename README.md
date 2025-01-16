@@ -13,6 +13,8 @@ This project uses machine learning techniques to identify two common types of fl
 - To reset the counter, click the "Reset Counter" button.
 ## Model Used
 **The system uses a model trained using Teachable Machine:**
+
+
 [Teachable Machine Model](https://teachablemachine.withgoogle.com/models/6KyhoezAf/)
 
 ## Screenshots
@@ -22,9 +24,10 @@ This project uses machine learning techniques to identify two common types of fl
 ### During Prediction
 ![Screenshot 2025-01-16 231644](https://github.com/user-attachments/assets/de36e24a-f139-4a59-b708-fc12b1df4a3b)
 
-## Live Demo
+## Try The System
 
 **You can try the system by downloading the code from this repository and running it locally using the following link:**
+
 [Access The Code Here](https://github.com/SelwanHalawani/Flowers-Prediction-System/blob/main/Flowers%20Prediction.html)
 
 ## Future Enhancements
