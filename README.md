@@ -21,3 +21,8 @@ This project uses machine learning techniques to identify two common types of fl
 
 ### During Prediction
 ![Screenshot 2025-01-16 231644](https://github.com/user-attachments/assets/de36e24a-f139-4a59-b708-fc12b1df4a3b)
+
+## Live View
+
+**You can try the system using the following link:**
+[Try the System Live](file:///C:/Users/Selwa/OneDrive/Desktop/Flowers%20Prediction.html)
