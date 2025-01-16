@@ -1,8 +1,8 @@
 # Flowers Prediction System
-## Introduction 
+## Project Overview
 
 This project uses machine learning techniques to identify two common types of flowers: Rose and Sunflower. By using your device's camera, the system analyzes images in real-time and provides an accurate prediction of the flower type. Users can take advantage of this technology to easily identify flower types, whether in a garden or in pictures.
-## Key Features
+## Features
 - High accuracy in flower type recognition.
 - A counter to track the number of discoveries.
 - Easy reset option for the counter.
@@ -22,7 +22,7 @@ This project uses machine learning techniques to identify two common types of fl
 ### During Prediction
 ![Screenshot 2025-01-16 231644](https://github.com/user-attachments/assets/de36e24a-f139-4a59-b708-fc12b1df4a3b)
 
-## Live View
+## Live Demo
 
 **You can try the system using the following link:**
 [Try the System Live](https://github.com/SelwanHalawani/Flowers-Prediction-System/blob/main/Flowers%20Prediction.html)
