@@ -24,8 +24,8 @@ This project uses machine learning techniques to identify two common types of fl
 
 ## Live Demo
 
-**You can try the system using the following link:**
-[Try the System Live](https://github.com/SelwanHalawani/Flowers-Prediction-System/blob/main/Flowers%20Prediction.html)
+**You can try the system by downloading the code from this repository and running it locally using the following link:**
+[Access The Code Here](https://github.com/SelwanHalawani/Flowers-Prediction-System/blob/main/Flowers%20Prediction.html)
 
 ## Future Enhancements
 - Improve the model’s accuracy by using a larger dataset and experimenting with more advanced machine learning algorithms.
