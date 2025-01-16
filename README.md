@@ -25,4 +25,4 @@ This project uses machine learning techniques to identify two common types of fl
 ## Live View
 
 **You can try the system using the following link:**
-[Try the System Live]([https://SelwanHalawani.github.io/Flowers-Prediction-System/](https://github.com/SelwanHalawani/Flowers-Prediction-System/blob/main/Flowers%20Prediction.html)
+[Try the System Live](https://github.com/SelwanHalawani/Flowers-Prediction-System/blob/main/Flowers%20Prediction.html)
